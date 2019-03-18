@@ -15,6 +15,7 @@ sap.ui.define([
 
         formatter: formatter,
 
+/*komentarz Adasia*/
 
         /* =========================================================== */
         /* lifecycle methods                                           */
